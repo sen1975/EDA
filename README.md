@@ -22,7 +22,7 @@ This assignment uses data from the UC Irvine Machine Learning Repository, a popu
                                 It corresponds to the kitchen, containing mainly a dishwasher, 
                                 an oven and a microwave (hot plates are not electric but gas powered).
               ~ Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). 
-                It corresponds to the laundry room, containing a washing-machine, 
-                a tumble-drier, a refrigerator and a light.
+                                It corresponds to the laundry room, containing a washing-machine, 
+                                a tumble-drier, a refrigerator and a light.
                ~ Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). 
-                It corresponds to an electric water-heater and an air-conditioner.
+                                 It corresponds to an electric water-heater and an air-conditioner.
