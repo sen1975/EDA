@@ -9,11 +9,12 @@ This assignment uses data from the UC Irvine Machine Learning Repository, a popu
 *  Different electrical quantities and some sub-metering values are available.
 *  The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
 
-Date: Date in format dd/mm/yyyy
-Time: time in format hh:mm:ss
+              ~  Date: Date in format dd/mm/yyyy
+              ~  Time: time in format hh:mm:ss
 
-Global_active_power: household global minute-averaged active power (in kilowatt)
-Global_reactive_power: household global minute-averaged reactive power (in kilowatt)
+              ~ Global_active_power: household global minute-averaged active power (in kilowatt)
+
+              ~ Global_reactive_power: household global minute-averaged reactive power (in kilowatt)
 Voltage: minute-averaged voltage (in volt)
 
 Global_intensity: household global minute-averaged current intensity (in ampere)
